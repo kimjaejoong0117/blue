@@ -2,6 +2,14 @@ BERT(Bidirectional Encoder Representations from Transformers)
  구글 연구진이 2018년에 공개한 자연어 처리 (NLP) 모델
  BERT는 트랜스포머 아키텍처를 기반으로 양방향적인 문맥을 이해하는 방식으로 학습
 
+# 원격저장소
+git remote add origin <URL>             # 원격 저장소 연결
+git push origin <브랜치>                 # 푸시 올리기
+git pull origin <브랜치>                 # 풀 로컬로 땡겨오기 
+git fetch origin                         # 원격 변경사항 가져오기
+
+미녀와 야수
+
 
 
 
